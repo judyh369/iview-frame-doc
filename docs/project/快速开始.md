@@ -1,0 +1,15 @@
+# 快速开始
+
+访问：https://gitee.com/judyh369/custom-frame 下载vue前端项目的脚手架源码。运行以下命令：
+
+先安装依赖的包
+```bash
+npm install
+```
+启动服务器预览项目，预览效果提供 LiveReload 功能，可以让实时的预览。默认访问 http://localhost:8000
+```bash
+npm run serve
+```
+
+
+
