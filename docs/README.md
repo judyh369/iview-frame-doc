@@ -1,10 +1,10 @@
 ## 简介
 
-> custom-frame是套采用前后端分离开发模式，基于Vue的后台管理系统前端解决方案
+> custom-admin是套采用前后端分离开发模式，基于Vue的后台管理系统前端解决方案
 
 整个框架基于iview组件库开发的，iview是一套基于 Vue.js 的高质量UI 组件库。官方([文档](https://www.iviewui.com/))。
 
-custom-frame采用Webpack4.0 + Vue-cli3.0作为基本开发环境。内置了开发后台管理系统常用的逻辑功能，和开箱即用的业务组件，旨在让开发者能够以最小的成本开发后台管理系统，降低开发量。
+custom-admin采用Webpack4.0 + Vue-cli3.0作为基本开发环境。内置了开发后台管理系统常用的逻辑功能，和开箱即用的业务组件，旨在让开发者能够以最小的成本开发后台管理系统，降低开发量。
 ## 目录结构
 ```bash
 ├── vue.config  webpack配置（Vue-cli3.0）
